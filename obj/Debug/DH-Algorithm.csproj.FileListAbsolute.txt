@@ -1,0 +1,11 @@
+C:\Users\66hun\Documents\zKod\DH-Algorithm\bin\Debug\DH-Algorithm.exe.config
+C:\Users\66hun\Documents\zKod\DH-Algorithm\bin\Debug\DH-Algorithm.exe
+C:\Users\66hun\Documents\zKod\DH-Algorithm\bin\Debug\DH-Algorithm.pdb
+C:\Users\66hun\Documents\zKod\DH-Algorithm\obj\Debug\DH-Algorithm.csproj.AssemblyReference.cache
+C:\Users\66hun\Documents\zKod\DH-Algorithm\obj\Debug\DH-Algorithm.csproj.SuggestedBindingRedirects.cache
+C:\Users\66hun\Documents\zKod\DH-Algorithm\obj\Debug\DH_Algorithm.Form1.resources
+C:\Users\66hun\Documents\zKod\DH-Algorithm\obj\Debug\DH_Algorithm.Properties.Resources.resources
+C:\Users\66hun\Documents\zKod\DH-Algorithm\obj\Debug\DH-Algorithm.csproj.GenerateResource.cache
+C:\Users\66hun\Documents\zKod\DH-Algorithm\obj\Debug\DH-Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\66hun\Documents\zKod\DH-Algorithm\obj\Debug\DH-Algorithm.exe
+C:\Users\66hun\Documents\zKod\DH-Algorithm\obj\Debug\DH-Algorithm.pdb
